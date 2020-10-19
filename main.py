@@ -1,10 +1,15 @@
+"""
+Platformer Game
+
+python -m arcade.examples.platform_tutorial.11_animate_character
+"""
 import arcade
 import os
 
 # Constants
 SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 650
-SCREEN_TITLE = "INT 2.1"
+SCREEN_TITLE = "Platformer"
 
 # Constants used to scale our sprites from their original size
 TILE_SCALING = 0.5
@@ -224,7 +229,7 @@ class MyGame(arcade.Window):
         coins_layer_name = 'Coins'
 
         # Map name
-        map_name = f":resources:tmx_maps/map_with_ladders.tmx"
+        map_name = f":resources:tmx_maps/map.tmx"
 
         # Read in the tiled map
         my_map = arcade.tilemap.read_tmx(map_name)
@@ -281,7 +286,7 @@ class MyGame(arcade.Window):
         self.player_list.draw()
 
         # Draw our score on the screen, scrolling it with the viewport
-        score_text = f"Capture the Flags. Score: {self.score} "
+        score_text = f"Score: {self.score}"
         arcade.draw_text(score_text, 10 + self.view_left, 10 + self.view_bottom,
                          arcade.csscolor.BLACK, 18)
 
