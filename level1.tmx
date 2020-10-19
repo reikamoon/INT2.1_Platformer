@@ -290,7 +290,7 @@
  </tileset>
  <layer id="1" name="Platforms" width="25" height="25">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjBRgDsQWQGw50A4hE3ASwKNgFIyCUTCSAABENwDx
+   eJxjYBgFo2AUjIKhATgJ4FEwCkbBKBhJAABzgwBJ
   </data>
  </layer>
 </map>
