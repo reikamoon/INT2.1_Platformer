@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="128" tileheight="128" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="candyland" tilewidth="70" tileheight="70" tilecount="95" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cake.png"/>
+  </tile>
+  <tile id="1">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeCenter_rounded.png"/>
+  </tile>
+  <tile id="2">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeCenter.png"/>
+  </tile>
+  <tile id="3">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeCliffLeft.png"/>
+  </tile>
+  <tile id="4">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeCliffLeftAlt.png"/>
+  </tile>
+  <tile id="5">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeCliffRight.png"/>
+  </tile>
+  <tile id="6">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeCliffRightAlt.png"/>
+  </tile>
+  <tile id="7">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHalf.png"/>
+  </tile>
+  <tile id="8">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHalfAlt.png"/>
+  </tile>
+  <tile id="9">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHalfAltLeft.png"/>
+  </tile>
+  <tile id="10">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHalfAltMid.png"/>
+  </tile>
+  <tile id="11">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHalfAltRight.png"/>
+  </tile>
+  <tile id="12">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHalfLeft.png"/>
+  </tile>
+  <tile id="13">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHalfMid.png"/>
+  </tile>
+  <tile id="14">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHalfRight.png"/>
+  </tile>
+  <tile id="15">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHillLeft.png"/>
+  </tile>
+  <tile id="16">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHillLeft2.png"/>
+  </tile>
+  <tile id="17">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHillRight.png"/>
+  </tile>
+  <tile id="18">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeHillRight2.png"/>
+  </tile>
+  <tile id="19">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeLedgeLeft.png"/>
+  </tile>
+  <tile id="20">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeLedgeRight.png"/>
+  </tile>
+  <tile id="21">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeLeft.png"/>
+  </tile>
+  <tile id="22">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeMid.png"/>
+  </tile>
+  <tile id="23">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cakeRight.png"/>
+  </tile>
+  <tile id="24">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/candyBlue.png"/>
+  </tile>
+  <tile id="25">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/candyGreen.png"/>
+  </tile>
+  <tile id="26">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/candyRed.png"/>
+  </tile>
+  <tile id="27">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/candyYellow.png"/>
+  </tile>
+  <tile id="28">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/canePink.png"/>
+  </tile>
+  <tile id="29">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/canePinkSmall.png"/>
+  </tile>
+  <tile id="30">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/canePinkTop.png"/>
+  </tile>
+  <tile id="31">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/canePinkTopAlt.png"/>
+  </tile>
+  <tile id="32">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cherry.png"/>
+  </tile>
+  <tile id="33">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/choco.png"/>
+  </tile>
+  <tile id="34">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoCenter_rounded.png"/>
+  </tile>
+  <tile id="35">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoCenter.png"/>
+  </tile>
+  <tile id="36">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoCliffLeft.png"/>
+  </tile>
+  <tile id="37">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoCliffLeftAlt.png"/>
+  </tile>
+  <tile id="38">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoCliffRight.png"/>
+  </tile>
+  <tile id="39">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoCliffRightAlt.png"/>
+  </tile>
+  <tile id="40">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHalf.png"/>
+  </tile>
+  <tile id="41">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHalfAlt.png"/>
+  </tile>
+  <tile id="42">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHalfAltLeft.png"/>
+  </tile>
+  <tile id="43">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHalfAltMid.png"/>
+  </tile>
+  <tile id="44">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHalfAltRight.png"/>
+  </tile>
+  <tile id="45">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHalfLeft.png"/>
+  </tile>
+  <tile id="46">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHalfMid.png"/>
+  </tile>
+  <tile id="47">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHalfRight.png"/>
+  </tile>
+  <tile id="48">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHillLeft.png"/>
+  </tile>
+  <tile id="49">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHillLeft2.png"/>
+  </tile>
+  <tile id="50">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHillRight.png"/>
+  </tile>
+  <tile id="51">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoHillRight2.png"/>
+  </tile>
+  <tile id="52">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoLedgeLeft.png"/>
+  </tile>
+  <tile id="53">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoLedgeRight.png"/>
+  </tile>
+  <tile id="54">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoLeft.png"/>
+  </tile>
+  <tile id="55">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoMid.png"/>
+  </tile>
+  <tile id="56">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/chocoRight.png"/>
+  </tile>
+  <tile id="57">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cookieBrown.png"/>
+  </tile>
+  <tile id="58">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cookieChoco.png"/>
+  </tile>
+  <tile id="59">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cookiePink.png"/>
+  </tile>
+  <tile id="60">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/creamChoco.png"/>
+  </tile>
+  <tile id="61">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/creamMocca.png"/>
+  </tile>
+  <tile id="62">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/creamPink.png"/>
+  </tile>
+  <tile id="63">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/creamVanilla.png"/>
+  </tile>
+  <tile id="64">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/cupCake.png"/>
+  </tile>
+  <tile id="65">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/gummyWormGreenEnd.png"/>
+  </tile>
+  <tile id="66">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/gummyWormGreenHead.png"/>
+  </tile>
+  <tile id="67">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/gummyWormGreenMid.png"/>
+  </tile>
+  <tile id="68">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/gummyWormRedEnd.png"/>
+  </tile>
+  <tile id="69">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/gummyWormRedHead.png"/>
+  </tile>
+  <tile id="70">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/gummyWormRedMid.png"/>
+  </tile>
+  <tile id="71">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/heart.png"/>
+  </tile>
+  <tile id="72">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/hillCaneChoco.png"/>
+  </tile>
+  <tile id="73">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/hillCaneChocoTop.png"/>
+  </tile>
+  <tile id="74">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/hillCaneGreen.png"/>
+  </tile>
+  <tile id="75">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/hillCaneGreenTop.png"/>
+  </tile>
+  <tile id="76">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/hillCanePink.png"/>
+  </tile>
+  <tile id="77">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/hillCanePinkTop.png"/>
+  </tile>
+  <tile id="78">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/hillCaneRed.png"/>
+  </tile>
+  <tile id="79">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/hillCaneRedTop.png"/>
+  </tile>
+  <tile id="80">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopBase.png"/>
+  </tile>
+  <tile id="81">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopBaseBeige.png"/>
+  </tile>
+  <tile id="82">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopBaseBrown.png"/>
+  </tile>
+  <tile id="83">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopBaseCake.png"/>
+  </tile>
+  <tile id="84">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopBasePink.png"/>
+  </tile>
+  <tile id="85">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopFruitGreen.png"/>
+  </tile>
+  <tile id="86">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopFruitRed.png"/>
+  </tile>
+  <tile id="87">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopFruitYellow.png"/>
+  </tile>
+  <tile id="88">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopGreen.png"/>
+  </tile>
+  <tile id="89">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopRed.png"/>
+  </tile>
+  <tile id="90">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopWhiteGreen.png"/>
+  </tile>
+  <tile id="91">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/lollipopWhiteRed.png"/>
+  </tile>
+  <tile id="92">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/waffleChoco.png"/>
+  </tile>
+  <tile id="93">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/wafflePink.png"/>
+  </tile>
+  <tile id="94">
+   <image width="70" height="70" source="images/tiles/Candyland/platformergraphics-candycaverns/Tiles/waffleWhite.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="Platforms" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjBRgDsQWQGw50A4hE3ASwKNgFIyCUTCSAABENwDx
+  </data>
+ </layer>
+</map>
