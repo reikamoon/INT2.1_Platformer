@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="40" height="17" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#442045" nextlayerid="14" nextobjectid="1">
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="40" height="17" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#df2c28" nextlayerid="14" nextobjectid="1">
  <tileset firstgid="1" name="tileset" tilewidth="128" tileheight="128" tilecount="166" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
@@ -548,7 +548,7 @@
  </tileset>
  <layer id="6" name="Platforms" width="40" height="17">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjILBA1xxsEcBKnAEYh8odiJC/WhYEgcKgLgQiIvwqBkNy8EJfCjA1DQLhH2xmGk7iknCAAqfHyA=
+   eJxjYBgFo2AUjIJRQE3QjITbBtgthEAVw+B2YxUDfdxYA8SVROJaGrtlFBAHOknAtDQbF64iAZMKSDEbF7Yd5O4DAK2wM6w=
   </data>
  </layer>
  <layer id="11" name="Ladders" width="40" height="17">
@@ -558,17 +558,17 @@
  </layer>
  <layer id="7" name="Coins" width="40" height="17">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2DoghUD7YBRMGzBaNqiHRgN2+EDRuNyFNAKAAAbowKh
+   eJxjYBgFo2AUjIJRMAroB3ZDMQMavRu78iEDhoL7h7obh0M6GQXEAQC1BQdP
   </data>
  </layer>
  <layer id="8" name="Don't Touch" width="40" height="17">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwSgYucAUDY+CgQcAVEcA1Q==
+   eJxjYBgFo2AUjIJRMApGwSigH6hAwvQApiRiegNjEvFIcB8ATK4IrQ==
   </data>
  </layer>
  <layer id="9" name="Foreground" width="40" height="17">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwSggHqQMsDlJVLJ/FAxeAACGBgEr
+   eJxjYBgFo2AUjIJRMApGwSggHqQMsP1JA2z/KKA9AACzBwDH
   </data>
  </layer>
  <layer id="13" name="Moving Platforms" width="40" height="17">
@@ -578,7 +578,7 @@
  </layer>
  <layer id="10" name="Background" width="40" height="17">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwSigPvAbaAeMgiELALjoAE8=
+   eJztwTEBAAAAwqD1T20ND6AAAODHAAqgAAE=
   </data>
  </layer>
 </map>

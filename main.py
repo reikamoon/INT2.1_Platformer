@@ -5,11 +5,15 @@ python -m arcade.examples.platform_tutorial.11_animate_character
 """
 import arcade
 import os
+import pygame
 
 # Constants
 SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 650
 SCREEN_TITLE = "Platformer"
+# Set up the drawing window
+screen = pygame.display.set_mode([1000, 650])
+BG_COLOR = (255, 0 , 0)
 
 # Constants used to scale our sprites from their original size
 TILE_SCALING = 0.5
@@ -37,6 +41,7 @@ PLAYER_START_Y = SPRITE_PIXEL_SIZE * TILE_SCALING * 1
 RIGHT_FACING = 0
 LEFT_FACING = 1
 
+screen.fill(BG_COLOR)
 
 def load_texture_pair(filename):
     """
